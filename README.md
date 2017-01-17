@@ -2,5 +2,3 @@
 This is the second TestRepo.
 
 Changes were made.
-
-Making conflicts and resolving them.
